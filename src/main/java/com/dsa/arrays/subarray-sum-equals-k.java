@@ -1,3 +1,7 @@
+package com.dsa.arrays;
+
+
+import java.util.HashMap;
 class Solution {
     //karshhkr
     public int subarraySum(int[] nums, int k) {
