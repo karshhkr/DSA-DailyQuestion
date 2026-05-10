@@ -39,6 +39,7 @@ To run any specific problem locally:
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/1672-richest-customer-wealth) |
@@ -53,5 +54,6 @@ To run any specific problem locally:
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
