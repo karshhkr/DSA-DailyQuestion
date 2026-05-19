@@ -43,6 +43,7 @@ To run any specific problem locally:
 | [0704-binary-search](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/1672-richest-customer-wealth) |
 ## Math
@@ -60,4 +61,9 @@ To run any specific problem locally:
 | [0704-binary-search](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/1095-find-in-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
