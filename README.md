@@ -39,6 +39,7 @@ To run any specific problem locally:
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -57,6 +58,7 @@ To run any specific problem locally:
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0744-find-smallest-letter-greater-than-target) |
