@@ -43,6 +43,7 @@ To run any specific problem locally:
 | [0074-search-a-2d-matrix](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -91,6 +92,7 @@ To run any specific problem locally:
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
