@@ -39,6 +39,7 @@ To run any specific problem locally:
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0162-find-peak-element) |
@@ -81,11 +82,13 @@ To run any specific problem locally:
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
