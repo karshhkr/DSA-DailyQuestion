@@ -45,6 +45,7 @@ To run any specific problem locally:
 | [0162-find-peak-element](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0704-binary-search) |
@@ -93,11 +94,13 @@ To run any specific problem locally:
 | ------- |
 | [0015-3sum](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Bit Manipulation
 |  |
