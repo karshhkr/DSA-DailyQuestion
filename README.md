@@ -121,4 +121,8 @@ To run any specific problem locally:
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
