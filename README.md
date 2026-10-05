@@ -89,6 +89,7 @@ To run any specific problem locally:
 | ------- |
 | [0015-3sum](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/1089-duplicate-zeros) |
 ## Sorting
@@ -125,4 +126,9 @@ To run any specific problem locally:
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
