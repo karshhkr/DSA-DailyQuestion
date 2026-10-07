@@ -61,6 +61,7 @@ To run any specific problem locally:
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -112,6 +113,7 @@ To run any specific problem locally:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0645-set-mismatch) |
@@ -136,6 +138,7 @@ To run any specific problem locally:
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
