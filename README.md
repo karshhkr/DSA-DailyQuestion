@@ -61,6 +61,7 @@ To run any specific problem locally:
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0509-fibonacci-number) |
@@ -105,6 +106,7 @@ To run any specific problem locally:
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -128,6 +130,7 @@ To run any specific problem locally:
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
