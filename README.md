@@ -43,6 +43,7 @@ To run any specific problem locally:
 | [0033-search-in-rotated-sorted-array](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0268-missing-number) |
@@ -116,6 +117,7 @@ To run any specific problem locally:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0268-missing-number) |
@@ -150,4 +152,8 @@ To run any specific problem locally:
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
