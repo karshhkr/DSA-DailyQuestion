@@ -64,6 +64,7 @@ To run any specific problem locally:
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0509-fibonacci-number) |
@@ -148,6 +149,7 @@ To run any specific problem locally:
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/karshhkr/DSA-DailyQuestion/tree/master/0509-fibonacci-number) |
 ## Memoization
